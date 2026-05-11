@@ -6,5 +6,11 @@ My first little project to get into a groove. Contains a ton of boilerplate and 
 
 <img width="128" height="64" alt="recording_20260509202524" src="https://github.com/user-attachments/assets/2ad39153-ac8d-4b07-91ad-4192fa98524b" />
 
+## TenSum
+A port of my Picotron game TenSum, which is a clone of Pancelors brilliant "MakeTen"
+
+<img width="128" height="64" alt="TenSum" src="https://github.com/user-attachments/assets/8e874d73-94f8-4054-ba05-a9146ce6ebe7" />
+
+
 
 
